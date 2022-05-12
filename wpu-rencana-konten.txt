@@ -1,9 +1,10 @@
-ENCANA KONTEN WPU
+RENCANA KONTEN WPU
 
 - Java script 
   * ES6
   * FrameWork Javascript
     ^Vue
+    ^React
 - Struktur data dasar
 - PHP Frameworks
   ^laravel
